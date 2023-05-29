@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.prodName {
+    color:#745f05;
+}
+.prodCost {
+    color:#000000;
+}
+h1 {
+    color: #000000;
+    text-align: center;
+}
+#prodNameInp {
+    margin-left: 5px;
+    width: 40%;
+}
+#prodNameInpFind {
+    margin-left: 10px;
+}
+#main {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+}
+table {
+    width: 70%;
+    margin: 40px auto;
+    text-align: center;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 2px solid #000000;
+}
+th, td {
+    width: fit-content;
+    border: 1px solid #000000;
+}
